@@ -1,2 +1,2 @@
 # nikth.github.io
-Testing site via github pages and pelican
+Personal Web Page - Links mostly to the most used (by me) socials-websites.
